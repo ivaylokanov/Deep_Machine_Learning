@@ -1,0 +1,21 @@
+Currency	ticker	CoinID
+Bitcoin	BTC	1442
+Bitcoin Cash	BCH	1445
+Bitcoin Gold	BTG	1456
+Cardano	ADA	1446
+Dash	DASH	1453
+Dogecoin	DOGE	1477
+Eos	EOS	1452
+Ethereum	ETH	1443
+Ethereum Classic	ETC	1457
+Iota	MIOTA	1451
+Lisk	LSK	1460
+Litecoin	LTC	1448
+Monero	XMR	1454
+NEMcoin	XEM	1447
+Neo	NEO	1449
+Ripple	XRP	1444
+Stellar	XLM	1450
+Tether	USDT	1474
+Tron	TRX	1455
+Zcash	ZEC	1465
